@@ -1,0 +1,13 @@
+22.11.2020 15:43:21 : Client connected
+22.11.2020 15:43:37 : Received from client: "WHO"
+22.11.2020 15:43:37 : Server sent: "Yakovenko Illia, 15, String sorter"
+22.11.2020 15:43:44 : Received from client: "HELLO BRUH"
+22.11.2020 15:43:49 : Received from client: "YOU ARE BEST"
+22.11.2020 15:43:56 : Received from client: "I WISH YOU LUCK"
+22.11.2020 15:43:58 : Received from client: "SORT"
+22.11.2020 15:43:59 : Server sent: "HELLO BRUH"
+22.11.2020 15:43:59 : Server sent: "I WISH YOU LUCK"
+22.11.2020 15:43:59 : Server sent: "YOU ARE BEST"
+22.11.2020 15:44:04 : Received from client: "DELTA"
+22.11.2020 15:44:04 : Server sent: "00:00:00.0008778"
+22.11.2020 15:44:09 : Received from client: "DISCONNECT"

@@ -1,14 +1,13 @@
 ﻿using System;
 
-namespace Server
+namespace Client
 {
     class Program
     {
         static void Main(string[] args)
         {
-            MyServer server = new MyServer();
-
-            server.Work();
+            MyClient client = new MyClient();
+            client.Work();
         }
     }
 }
