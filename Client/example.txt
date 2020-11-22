@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Net;
 using System.Net.Sockets;
@@ -65,11 +65,8 @@ namespace Client
                 string line;
                 while ((line = reader.ReadLine()) != null)
                 {
-                    if (!String.IsNullOrEmpty(line))
-                    {
-                        Send(line);
-                        count++;
-                    }
+                    Send(line);
+                    count++;
                 }
             }
         }
